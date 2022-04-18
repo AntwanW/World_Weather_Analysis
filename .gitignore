@@ -5,6 +5,15 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 .DS_Store
+gmaps
+
+# ipynb files
+Anaconda Prompt.ipynb
+API_practice.ipynb
+Google_Nearby_Search.ipynb
+random_numbers.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
