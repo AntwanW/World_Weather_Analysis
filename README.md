@@ -11,7 +11,7 @@
 
 - WeatherPy_travel_map
 
-![This is an image](https://github.com/Wrancher123/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.pngpng)
+![This is an image](https://github.com/Wrancher123/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 - WeatherPy_travel_map_markers
 
